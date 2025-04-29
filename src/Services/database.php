@@ -6,10 +6,10 @@ use mysqli;
 
 class Database
 {
-    private $host = "localhost";
-    private $username = "root";
-    private $password = "";
-    private $database = "trip";
+    private $host = "sql5.freesqldatabase.com";
+    private $username = "sql5775922";
+    private $password = "5RjFzXncPn";
+    private $database = "sql5775922";
     public $conn;
 
     public function __construct()
