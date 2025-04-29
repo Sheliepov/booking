@@ -1,0 +1,8 @@
+.active {
+    border: 1px solid #5fe4b2;
+    background-color: #5fe4b141;
+}
+
+.tab-active {
+    background-color: white;
+}
